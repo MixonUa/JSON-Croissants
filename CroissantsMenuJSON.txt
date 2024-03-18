@@ -45,7 +45,7 @@
 {
 "name": "Тунець",
 "description": "круасан, зелена цибуля, тунець, яєчня, лимон, помідор, салат, соус класичний",
-"image": "",
+"image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsMenu/Tuna.png",
 "price": 184,
 "details" :
 {
