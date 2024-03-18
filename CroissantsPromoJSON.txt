@@ -1,6 +1,6 @@
 [
   {
-  "name": "Круасан та кава"
+  "name": "Круасан та кава",
   "code": 15525,
   "image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsPromo/coffeAndCroiss.png",
   },
