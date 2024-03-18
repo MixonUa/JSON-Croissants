@@ -1,0 +1,22 @@
+[
+  {
+  "name": "Круасан та кава"
+  "code": 15525,
+  "image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsPromo/coffeAndCroiss.png"
+  },
+  {
+  "name": "2 кави",
+  "code": 15544,
+  "image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsPromo/2coffe.png"
+  },
+  {
+  "name": "2 круасани",
+  "code": 15585,
+  "image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsPromo/2croissants.png"
+  },
+  {
+  "name": "чай та солодкий круасан",
+  "code": 15518,
+  "image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsPromo/teaAndChoco.png"
+  }
+]

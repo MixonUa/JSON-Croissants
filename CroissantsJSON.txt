@@ -1,0 +1,89 @@
+[
+{
+"name": "Вегетаріанський",
+"description": "круасан, соус песто, рукола, помідор, сир моцарела, в'ялені томати",
+"image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsMenu/Vegeterian.png",
+"price": 144,
+"details" : {
+"weight": 185,
+"energy": 400,
+},
+},
+{
+"name": "Яловичий",
+"description": "круасан, яловичина гриль, салат айсберг, помідор, маринована цибуля, соус сацебелі, соус класичний",
+"image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsMenu/Yalow.png",
+"price": 156,
+"details" :
+{
+"weight": 250,
+"energy": 454,
+},
+},
+{
+"name": "Український",
+"description": "круасан, огірок, помідор, курка, гриби, салат, соус гірчичний",
+"image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsMenu/Ukrainian.png",
+"price": 121,
+"details" :
+{
+"weight": 235,
+"energy": 264,
+},
+},
+{
+"name": "Амстердам",
+"description": "круасан, оселедець, сир моцарела, помідор, салат, соус песто, соус часниковий",
+"image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsMenu/Amsterdam.png",
+"price": 162,
+"details" :
+{
+"weight": 225,
+"energy": 350,
+},
+},
+{
+"name": "Тунець",
+"description": "круасан, зелена цибуля, тунець, яєчня, лимон, помідор, салат, соус класичний",
+"image": "",
+"price": 184,
+"details" :
+{
+"weight": 245,
+"energy": 298,
+},
+},
+{
+"name": "Королівський",
+"description": "круасан, помідор, салат, сир королівський, курка, соус гірчичний",
+"image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsMenu/King.png",
+"price": 173,
+"details" :
+{
+"weight": 240,
+"energy": 296,
+},
+},
+{
+"name": "Львівський",
+"description": "круасан, огірок, помідор, салямі, сир тостовий, яєчня, салат, соус часниковий",
+"image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsMenu/Lviv.png",
+"price": 148,
+"details" :
+{
+"weight": 240,
+"energy": 304,
+},
+},
+{
+"name": "Цезар",
+"description": "круасан, курка, помідор, сир пармезан, салат айсберг, соус цезар",
+"image": "https://raw.githubusercontent.com/MixonUa/JSON-Croissants/main/CroissantsMenu/Cesar.png",
+"price": 170,
+"details" :
+{
+"weight": 226,
+"energy": 243,
+},
+}
+]
